@@ -1,0 +1,6 @@
+env: "local"
+log_level: "debug"
+http_server:
+  port: :8080
+  timeout: 4s
+  iddle_timeout: 60s
